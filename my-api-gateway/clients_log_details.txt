@@ -1,8 +1,0 @@
-Client IP: 0:0:0:0:0:0:0:1 | Accessed Method: POST | URL: /user/new | Timestamp: 2023-12-15T11:39:44.144430700
-Client IP: 0:0:0:0:0:0:0:1 | Accessed Method: POST | URL: /user/authenticate | Timestamp: 2023-12-15T11:41:56.694366600
-Client IP: 0:0:0:0:0:0:0:1 | Accessed Method: GET | URL: /payments/2089 | Timestamp: 2023-12-15T11:43:10.445363700
-Client IP: 0:0:0:0:0:0:0:1 | Accessed Method: POST | URL: /user/authenticate | Timestamp: 2023-12-15T11:47:26.071763900
-Client IP: 0:0:0:0:0:0:0:1 | Accessed Method: GET | URL: /payments/2089 | Timestamp: 2023-12-15T11:48:09.490209900
-Client IP: 0:0:0:0:0:0:0:1 | Accessed Method: GET | URL: /payments/2089 | Timestamp: 2023-12-15T11:54:56.145014600
-Client IP: 0:0:0:0:0:0:0:1 | Accessed Method: POST | URL: /user/authenticate | Timestamp: 2023-12-15T11:55:41.233009900
-Client IP: 0:0:0:0:0:0:0:1 | Accessed Method: GET | URL: /payments/3450 | Timestamp: 2023-12-15T11:58:01.262894400
